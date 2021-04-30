@@ -8,3 +8,5 @@ Remember to:
 2] Debug/Release for x64 bit since KF2 is a 64bit app.
 
 3] Use either the python OR the cpp version. (its the same thing!)
+
+4] Documentation: https://pymem.readthedocs.io/_/downloads/en/documentation/pdf/
