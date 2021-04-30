@@ -4,7 +4,7 @@ from pymem.process import *
 print("---Sirumal's Killing Floor 2 Power---")
 
 try:
-    pm = pymem.Pymem("Killing Floor 2 (64-bit, DX11) v1112")
+    pm = pymem.Pymem("KFGame.exe")
 except:
     sys.exit("Target process was not found!")
 
